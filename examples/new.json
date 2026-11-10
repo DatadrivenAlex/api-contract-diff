@@ -1,0 +1,1 @@
+{"openapi":"3.0.3","info":{"title":"Demo Store API","version":"2.0.0"},"paths":{"/orders":{"get":{"parameters":[{"name":"page","in":"query","required":true,"schema":{"type":"integer"}}],"responses":{"200":{"description":"Orders"}}}}}}
